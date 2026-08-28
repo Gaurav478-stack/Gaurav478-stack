@@ -62,7 +62,12 @@ me.say_hi()
 ---
 
 ###
-![My Local GIF](gif.gif)
+<div align="center">
+  <img
+    src="gif.gif"
+    alt="Animated GIF"
+  />
+</div>
 ###
 
 
