@@ -59,52 +59,10 @@ me.say_hi()
 
 
 ---
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
 
 ###
 ![My Local GIF](gif.gif)
-
 ###
-
-<img src="gif.gif" alt="My Animated GIF" width="360" />
-
-###
-
-
-###
-
-
-
-###
-
-###
-
-
-###
-
 
 
 
